@@ -73,7 +73,9 @@ ATELIER
 
 ## Normal Mode
 - creer un dump des process en cours (ps -eaf > process) et ouvrir
+
 ### LEVEL 1
+    basics
 - deplacement avec h,j,k,l
 - entrer en mode insertion avec i
 - taper du texte
@@ -88,6 +90,10 @@ Hallo Word !
 
 ( en 11 frappe )
 
+### INTERMISSION
+- undo u
+- redo ctrl+r
+
 ### LEVEL 2
 - inserer apres le curseur a
 - se deplacer a la fin de la ligne $
@@ -95,5 +101,20 @@ Hallo Word !
 - se deplacer au premier mot de la ligne ^
 - inserer a la fin de la ligne A
 - inserer en debut de ligne I
+- se deplacer au prochain mot w
+- se deplacer a la fin du prochain mot e
+- se deplacer au debut du precedent mot b
+- se deplacer a la fin du precedent mot ge
+
+
+### LEVEL 3
+- supprimer un mot dw
+- changer un mot cw
+- supprimer une ligne dd
+- copier une ligne yy
+- coller p
+- copier un mot yw
+
+
 
 
