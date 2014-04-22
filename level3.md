@@ -1,0 +1,7 @@
+- dw : supprimer un mot
+- cw : changer un mot
+- dd : supprimer la ligne
+- d$ : supprimer jusqu'a la fin de la ligne
+- yy : copier la ligne
+- p : coller
+- yw : copier un mot

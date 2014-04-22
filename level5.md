@@ -1,0 +1,10 @@
+- v : mode visuel
+- V : mode visuel ligne
+- / : chercher
+- n : resultat de recherche precedent
+- p : resultat de recherche suivant
+- :s : subsituter
+- gg : aller a la premiere ligne
+- G : aller a la derniere ligne
+- ctrl + d : descendre d'un demi-ecran
+- ctrl + u : monter d'un demi-ecran

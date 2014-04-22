@@ -1,0 +1,7 @@
+- 2h, 2j, 2k, 2l : se deplacer de 2 caracteres
+- 2w : se deplacer de 2 mots
+- d2w : supprimer 2 mot
+- f : se deplacer jusqu'a un caractere
+- t : se deplacer avant un caractere
+- df : effacer jusqu'a une lettre
+- cf : changer jusqu'a une lettre

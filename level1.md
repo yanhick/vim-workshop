@@ -1,0 +1,10 @@
+- h,j,k,l : deplacer le curseur
+- i : mode insertion
+- Esc : sortir du mode insertion
+- x : effacer un caractere
+- r : remplacer un caractere
+- :w : sauvrgarder le fichier
+- :e : ouvrir ou creer un fichier
+- :help : ouvrir la documentation
+- u : undo
+- ctrl + r : redo
